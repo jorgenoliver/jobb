@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sajXjQYaqKjyy7wWzkLAQIWHRwTKS8a3R7KbcR221G0NbDjKvUrC6+Mcz9nmQPGy7bwphWh2D9fukmj2nPPpQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\47952\\Desktop\\jobb2\\jobb2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\47952\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\47952\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\47952\\.nuget\\packages\\mysqlconnector\\2.1.9\\mysqlconnector.2.1.9.nupkg.sha512",
+    "C:\\Users\\47952\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\47952\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\47952\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\47952\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "KrAbhNthq6bYKQ6CAfPHym/R+NRMnAfpVoLPWqR95F0=",
+  "Source": "jobb2",
+  "BasePath": "_content/jobb2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "jobb2\\wwwroot",
+      "Source": "jobb2",
+      "ContentRoot": "C:\\Users\\47952\\Desktop\\jobb2\\wwwroot\\",
+      "BasePath": "_content/jobb2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
