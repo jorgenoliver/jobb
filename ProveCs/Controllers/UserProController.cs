@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace UserProApi.Controllers
 {
+    ///Get
     [Route("Get")]
     public class GetController : ControllerBase
     {
@@ -11,7 +12,7 @@ namespace UserProApi.Controllers
             Db = db;
         }
 
-        // GET 
+  
         [HttpGet]
         public async Task<IActionResult> Get()
         {
@@ -24,7 +25,7 @@ namespace UserProApi.Controllers
         public AppDb Db { get; }
     }
 
-    
+    //Set
     [Route("Set")]
     public class SetController : ControllerBase
     {
@@ -33,7 +34,6 @@ namespace UserProApi.Controllers
             Db = db;
         }
 
-        // GET Post
         [HttpPost]
         public async Task<IActionResult> Post([FromBody]UserPro body)
         {
